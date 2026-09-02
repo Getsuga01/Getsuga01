@@ -1,55 +1,55 @@
-# Olá, eu sou Ronaldo Avansini 👋
+## Systems profile
+
+<p><code>getsuga01@github:~$ whoami</code></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Getsuga01&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
+  <img src="https://www.gitskins.com/api/section/hero?username=getsuga01&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110944337%3Fu%3D087da0c6073af093b60c776c19633c376bf32aab%26v%3D4&style=terminal" alt="getsuga01 hero visual" />
 </p>
 
-### 🚀 Sobre Mim
-Engenheiro(a) de Software com foco em **Dev Fullstack**, apaixonado(a) por construir soluções escaláveis, limpas e de alto impacto.
+**Ronaldo Avansini** · Frontend or full-stack engineer
 
-- 🔭 Atualmente desenvolvendo projetos com foco em **Java • C++ • Python • HTML • TypeScript**
-- 💡 Boas práticas: Clean Architecture, SOLID, TDD e CI/CD
-- 💬 Me pergunte sobre arquitetura de software, frontend moderno e APIs
-- 📫 Contato: [LinkedIn](https://linkedin.com) • [Email](mailto:seu-email@exemplo.com)
+## Runtime notes
 
----
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 22
+COMMUNITY   = 0 followers</code></pre>
 
-### 🛠️ Tech Stack & Ferramentas
+Building useful things and learning in public.
 
-```
-Linguagens:   Java, C++, Python, HTML, TypeScript
-Frameworks:   React, Next.js, NestJS, Node.js, Express
-Bancos:       PostgreSQL, Redis, Prisma ORM
-Ferramentas:  Docker, Git, GitHub Actions, Linux
-```
+## Service toolkit
 
----
-
-### 📌 Projetos em Destaque
-
-#### 🔹 [DashBoard](https://github.com/Getsuga01/DashBoard)
-Projeto focado em arquitetura modular e alta performance.
-- **Tecnologias:** TypeScript, Clean Code
-
-#### 🔹 [E-Commerce_exemple](https://github.com/Getsuga01/E-Commerce_exemple)
-Projeto focado em arquitetura modular e alta performance.
-- **Tecnologias:** JavaScript, Clean Code
-
-#### 🔹 [E-commerce](https://github.com/Getsuga01/E-commerce)
-Modelo simples de E-commercie para demonstração
-- **Tecnologias:** TypeScript, Clean Code
-
-
----
-
-### 📊 Estatísticas do GitHub
+<p><code>getsuga01@github:~$ toolbox --list</code></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Getsuga01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getsuga01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://www.gitskins.com/api/section/stack?username=getsuga01&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110944337%3Fu%3D087da0c6073af093b60c776c19633c376bf32aab%26v%3D4&style=terminal" alt="getsuga01 stack visual" />
 </p>
 
----
+## System signals
+
+<table>
+<tr><td align="center"><b>22</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>63</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [Routask](https://github.com/Getsuga01/Routask) — HTML · 0 stars
+- [MicroServices](https://github.com/Getsuga01/MicroServices) — Java · 0 stars
+- [GameVault](https://github.com/Getsuga01/GameVault) — Dockerfile · 0 stars
+- [train_pipeline.py](https://github.com/Getsuga01/train_pipeline.py) — Python · 0 stars
+- [E-Commerce_exemple](https://github.com/Getsuga01/E-Commerce_exemple) — JavaScript · 0 stars
+- [DashBoard](https://github.com/Getsuga01/DashBoard) — TypeScript · 0 stars
+
 <p align="center">
-  <i>💡 Sugestão gerada pelo Profile Booster. Revise e personalize antes de publicar no seu repositório especial Getsuga01/Getsuga01.</i>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=getsuga01&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110944337%3Fu%3D087da0c6073af093b60c776c19633c376bf32aab%26v%3D4" alt="getsuga01 heatmap visual" />
 </p>
+
+## Open a channel
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=getsuga01&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110944337%3Fu%3D087da0c6073af093b60c776c19633c376bf32aab%26v%3D4" alt="getsuga01 social visual" />
+</p>
+
+<a href="https://github.com/getsuga01">GitHub</a>
+
+<p align="center"><sub>Ronaldo Avansini · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
