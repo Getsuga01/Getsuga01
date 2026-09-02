@@ -52,4 +52,4 @@ Building useful things and learning in public.
 
 <a href="https://github.com/getsuga01">GitHub</a>
 
-<p align="center"><sub>Ronaldo Avansini · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Ronaldo Avansini · Backend profile </sub></p>
