@@ -39,6 +39,7 @@ Building useful things and learning in public.
 - [train_pipeline.py](https://github.com/Getsuga01/train_pipeline.py) — Python · 0 stars
 - [E-Commerce_exemple](https://github.com/Getsuga01/E-Commerce_exemple) — JavaScript · 0 stars
 - [DashBoard](https://github.com/Getsuga01/DashBoard) — TypeScript · 0 stars
+- [ERP-camp]((https://github.com/Getsuga01/erp-campo)) — Python + docker · 0 stars
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=getsuga01&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110944337%3Fu%3D087da0c6073af093b60c776c19633c376bf32aab%26v%3D4" alt="getsuga01 heatmap visual" />
